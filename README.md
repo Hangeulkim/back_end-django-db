@@ -1,2 +1,2 @@
-# django
- learn django!
+# django and db
+ learn django, db!
