@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf6f20de-8d27-4129-b850-45c0feebac83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_instagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/clone_instagram/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/clone_instagram/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="clone_instagram" type="Python.DjangoServer" factoryName="Django server">
       <module name="clone_instagram" />
@@ -77,6 +77,7 @@
       <workItem from="1653996978287" duration="97000" />
       <workItem from="1653997082958" duration="679000" />
       <workItem from="1654931677425" duration="7427000" />
+      <workItem from="1655207185709" duration="3815000" />
     </task>
     <servers />
   </component>
